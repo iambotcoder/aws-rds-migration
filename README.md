@@ -357,8 +357,6 @@ To clean up all resources, delete them in the following order:
 
 ## ✅ Conclusion
 
-Congratulations! You've successfully:
-
 - Accessed the RDS Management Console and reviewed key database metrics.
 - Monitored the **DatabaseConnections** metric to observe live connections.
 - Used an interactive SQL session to test the connection and query the database.
