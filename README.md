@@ -364,31 +364,31 @@ This section provides the expected outputs and screenshots for each task to help
 ### 🖼️ Task 1: Creating an Amazon RDS instance  
 
 - ✅ Screenshot: RDS instance details in AWS Management Console
-- 
+  
 ![Screenshot 2025-02-16 225558](https://github.com/user-attachments/assets/e5277d70-0696-4fa7-9aa8-7c86fe6bcf01)
 
 ### 🖼️ Task 2: Migrating application data to Amazon RDS    
 
 - ✅ Screenshot: Query results from the RDS instance
-- 
+  
 ![Screenshot 2025-02-17 163850](https://github.com/user-attachments/assets/38af7309-d956-411d-abd2-b58e50da0ad1)
 
 
 ### 🖼️ Task 3: Configuring the website to use Amazon RDS  
 
 - ✅ Screenshot: Application configuration file update
-- 
-- ![Screenshot 2025-02-17 163840](https://github.com/user-attachments/assets/7ae765bc-6d6d-4c4c-8caa-ed481e6f2667)
+  
+![Screenshot 2025-02-17 163840](https://github.com/user-attachments/assets/7ae765bc-6d6d-4c4c-8caa-ed481e6f2667)
 
 - ✅ Screenshot: Web application running with RDS connection
-- 
-- ![Screenshot 2025-02-16 222451](https://github.com/user-attachments/assets/86fa7ecb-61c3-40b4-825a-67dc639ec6a9)
+  
+![Screenshot 2025-02-16 222451](https://github.com/user-attachments/assets/86fa7ecb-61c3-40b4-825a-67dc639ec6a9)
 
 
 ### 🖼️ Task 4: Monitoring the Amazon RDS Database  
 
 - ✅ Screenshot: CloudWatch metrics (CPUUtilization, DatabaseConnections, FreeStorageSpace)
-- 
+ 
 ![Screenshot 2025-02-17 163811](https://github.com/user-attachments/assets/896a5989-aabb-430e-9ff3-c5c21f465fa6)
 
 
